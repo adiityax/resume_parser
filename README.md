@@ -1,4 +1,4 @@
-!#Resume Parser App (Gen AI + Flask)
+#Resume Parser App (Gen AI + Flask)
 
 **Objective:**
 Creating a resume parser app using Flask is a great way to help job seekers test the ATS (Applicant Tracking System) friendliness of their resumes. The app allows users to upload their resumes in PDF format, which are then parsed to extract various pieces of information such as full name, email ID, GitHub portfolio, LinkedIn ID, employment details, technical skills, and soft skills. The extracted information is then presented in JSON format, providing users with valuable insights into the effectiveness of their resumes.
